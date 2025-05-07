@@ -15,3 +15,8 @@ moved README.md from ~/Desktop
 #Step 4
 git add .
 git commit -m "Initial commit"
+
+#Step 5 
+git add .
+git commit -m "Pushing the commits"
+git push --set-upstream origin main
